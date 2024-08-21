@@ -1,5 +1,4 @@
 let host = 'http://' + window.location.host;
-let Cookies;
 
 $(document).ready(function () {
     const auth = getToken();
